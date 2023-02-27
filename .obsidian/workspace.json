@@ -11,11 +11,9 @@
             "id": "2434b3ed216c8a15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/Семестр 2/Политикова - Экономические модели управленя/Лекции/02.27.2023.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/Attachments/Pasted image 20230227190255.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Семестр 2/Политикова - Экономические модели управленя/Лекции/02.27.2023.md",
+                "file": "docs/Attachments/Pasted image 20230227190255.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Семестр 2/Политикова - Экономические модели управленя/Лекции/02.27.2023.md",
+                "file": "docs/Attachments/Pasted image 20230227190255.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Семестр 2/Политикова - Экономические модели управленя/Лекции/02.27.2023.md"
+                "file": "docs/Attachments/Pasted image 20230227190255.png"
               }
             }
           }
@@ -147,20 +145,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2434b3ed216c8a15",
+  "active": "43014c00cc31cb13",
   "lastOpenFiles": [
-    "docs/Семестр 2/Гвоздев/Pasted image 20230227192522.png",
-    "docs/Семестр 2/Гвоздев/Pasted image 20230227190746.png",
-    "docs/Семестр 2/Гвоздев/Pasted image 20230227190647.png",
-    "docs/Семестр 2/Гвоздев/Pasted image 20230227190307.png",
-    "docs/Семестр 2/Гвоздев/Pasted image 20230227190255.png",
-    "docs/Attachments/Pasted image 20230227181742.png",
     "docs/Семестр 2/Политикова - Экономические модели управленя/Лекции/02.27.2023.md",
+    "docs/Attachments/Pasted image 20230227192522.png",
+    "docs/Attachments/Pasted image 20230227190746.png",
+    "docs/Attachments/Pasted image 20230227190647.png",
+    "docs/Attachments/Pasted image 20230227190307.png",
+    "docs/Attachments/Pasted image 20230227190255.png",
+    "docs/Attachments/Pasted image 20230227181742.png",
     "docs/Attachments/Pasted image 20230227185553.png",
     "docs/Attachments/Pasted image 20230227183642.png",
     "docs/Attachments/Pasted image 20230227183429.png",
     "docs/Attachments/Pasted image 20230227182638.png",
-    "docs/Attachments/Pasted image 20230227181444.png",
     "docs/Семестр 2/Политикова - Экономические модели управленя/Лекции/02.14.2023.md",
     "docs/Семестр 2/Политикова - Экономические модели управленя/Лекции/02.13.2023.md",
     "docs/Семестр 2/Политикова - Экономические модели управленя/Лекции/02.20.2023.md",
