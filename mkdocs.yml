@@ -1,7 +1,7 @@
 # official tutorial 
 # mkdocs-material: https://squidfunk.github.io/mkdocs-material/
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
-site_name: SSOML
+site_name: PiLectures
 site_url: http://flexlug.github.io
 site_dir: public
 docs_dir: ./docs
